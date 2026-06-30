@@ -38,8 +38,8 @@ https://<your-username>.github.io/<repo-name>/
 No build tools or dependencies are required.
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Amol-2704/theme-switcher.git
+cd <theme-switcher>
 ```
 
 Then either open `index.html` directly in your browser or serve it locally:
@@ -69,7 +69,7 @@ Deploy using **GitHub Pages**:
 Your website will be available at:
 
 ```
-https://<your-username>.github.io/<repo-name>/
+https://github.com/Amol-2704/theme-switcher
 ```
 
 ## Browser Support
